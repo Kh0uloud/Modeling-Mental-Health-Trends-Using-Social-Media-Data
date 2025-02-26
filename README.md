@@ -1,2 +1,2 @@
 # Modeling-Mental-Health-Trends-Using-Social-Media-Data
-This project explores the intersection of social media analytics, user behavior modeling, and mental health assessment using a data-driven AI approach. Leveraging both structured metadata and unstructured textual data, a robust regression model is developed to estimate depression intensity from Twitter user profiles, interactions, and content.
+This project explores the intersection of social media analytics, user behavior modeling, and mental health assessment using a data-driven AI approach. Utilizing the MDDL dataset, both structured metadata and unstructured textual data are analyzed to develop a robust regression model for estimating depression intensity from Twitter user profiles, interactions, and content.
