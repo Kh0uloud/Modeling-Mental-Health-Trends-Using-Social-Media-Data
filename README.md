@@ -20,5 +20,6 @@ By leveraging **feature engineering** on users’ tweet timelines; capturing **e
 - **Support Vector Machine (SVM)**  
 - **Logistic Regression**  
 
-#### **Next Steps**  
-🔍 The next phase involves **incorporating NLP-based features** from user tweets. By capturing **linguistic markers of stress, sentiment shifts, and contextual cues**, further refinement in classification performance is expected, making stress detection even more robust. 
+#### **Next Steps: Advancing Depression Classification with NLP & Multimodal Fusion**  
+🔍 The next phase focuses on leveraging state-of-the-art NLP models to classify depression from tweets. Given the domain-specific nature of social media text, BERTweet was selected, a transformer-based model pre-trained on Twitter data, for its superior performance in handling informal, noisy text. Fine-tuning BERTweet on our dataset will allow capturing nuanced linguistic markers indicative of depression.
+Beyond text, we aim to enhance predictive performance by integrating multimodal learning, fusing text with structured metadata (e.g., user engagement metrics, posting behavior). This hybrid approach will enable a more holistic representation of user mental states, improving model robustness and generalizability. Future work will explore late fusion techniques to optimize the interaction between language-driven insights and metadata-derived patterns.
