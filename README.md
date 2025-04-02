@@ -7,7 +7,7 @@ This project explores the intersection of social media analytics, user behavior 
 By leveraging **feature engineering** on users’ tweet timelines; capturing **engagement metrics, interaction and social connectivity patterns, posting behaviors, and network & influence-based features**, a **significant accuracy boost** was achieved:  
 - **🏆 69% → 96.95%** 🚀  
   - Initial accuracy (**69%**) using only profile metadata  
-  - Final accuracy (**96.95%**) after integrating behavioral & temporal insights  
+  - Final accuracy (**95.18%**) after integrating behavioral & temporal insights  
 
 #### **Key Takeaways**  
 ✅ **High-value features** beyond raw metadata are critical for accurate classification  
